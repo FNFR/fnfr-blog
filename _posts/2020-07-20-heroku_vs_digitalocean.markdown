@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Heroku x DigitalOcean"
-date:   2020-07-13 22:14:29 -0300
+date:   2020-07-20 18:00:00 -0300
 categories: python, heroku
 ---
 
