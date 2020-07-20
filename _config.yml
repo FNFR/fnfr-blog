@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Fernando Fonseca - Tech
+title: Fernando Fonseca
 email: fernando@fnfr.com.br
 description: >- # this means to ignore newlines until "baseurl:"
   O seu blog sobre tecnologia e dicas para agilizar o seu trabalho.
